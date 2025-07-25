@@ -13,11 +13,19 @@
     "@cloudinary/react": "^1.14.3",
     "@cloudinary/url-gen": "^1.21.0",
     "@tailwindcss/vite": "^4.1.11",
+<<<<<<< HEAD
     "axios": "^1.11.0",
     "firebase": "^12.0.0",
     "react": "^19.1.0",
     "react-dom": "^19.1.0",
     "react-dropzone": "^14.3.8",
+=======
+    "axios": "^1.6.8",
+    "firebase": "^12.0.0",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0",
+    "react-dropzone": "^14.2.3",
+>>>>>>> 95fad42f552843466e8509916ac33d3e83df59c6
     "react-icons": "^5.5.0",
     "react-router-dom": "^7.7.0",
     "react-scroll": "^1.9.3",
